@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # ----------------------------------------
 #
 # Delete files older then 15 min

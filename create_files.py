@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #----------------------------------------
 #
 # Create file named by date of today
@@ -16,3 +17,4 @@ fileDir = '/var/tmp/'+fileName						#dir to save file
 myfile = open(fileDir, mode='w')					#creation file
 #myfile.write()
 myfile.close()
+
